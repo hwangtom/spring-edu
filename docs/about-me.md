@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about me
-permalink: /about/
+permalink: /aboutme/
 ---
 
 # 소개
@@ -22,7 +22,7 @@ permalink: /about/
 3. 재직이력
 	4. 삼성SDS (2011.8 ~ 현재)
 5. 관심사 : 웹, 모바일 앱 개발
-6. 주언어 : C++(2007~2008), JAVA (2011~현재)
+6. 주언어 : C++(2007-2008), JAVA (2011-현재)
 7. 그 외... : javascript, scala, go(자습중)
 
 ----------
