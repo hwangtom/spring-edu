@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about me
+comments: true
 permalink: /aboutme/
 ---
 
