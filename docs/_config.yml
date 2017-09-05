@@ -41,3 +41,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# your disqus shortname, entering this will enable commenting on posts
+disqus: hwangtom
